@@ -1,0 +1,70 @@
+TuOrden
+
+Descripción del proyecto
+
+TuOrden es un sistema de pedidos desarrollado en Python pensado para ayudar a pequeños negocios a tomar pedidos de una manera más rápida, organizada y sencilla.
+
+La idea nace al ver que muchos negocios del Valle del Cauca todavía toman pedidos manualmente, y cuando el lugar está lleno pueden ocurrir errores, demoras o incluso perder clientes por la desorganización.
+
+Por eso, el proyecto busca crear un sistema simple pero útil, donde los pedidos puedan registrarse digitalmente y además imprimirse automáticamente en una impresora térmica.
+
+El sistema comenzará siendo una versión básica enfocada principalmente en:
+
+* tomar pedidos,
+* organizarlos,
+* y generar tickets automáticamente.
+
+Inicialmente será probado en el negocio Fraga Lover, dedicado a la venta de fresas con crema.
+⸻
+Problema
+
+Muchos negocios pequeños todavía manejan los pedidos en papel o de memoria. Esto puede generar:
+
+* confusiones,
+* errores en los pedidos,
+* pérdida de tiempo,
+* y desorden cuando hay muchos clientes.
+
+Además, varios emprendimientos no cuentan con herramientas digitales porque muchas veces son costosas o difíciles de usar.
+⸻
+Objetivo general
+
+Crear un sistema sencillo de pedidos que permita registrar e imprimir pedidos automáticamente para ayudar a mejorar la atención y organización en pequeños negocios.
+⸻
+Objetivos específicos
+
+* Diseñar una interfaz sencilla y fácil de entender.
+* Registrar pedidos digitalmente.
+* Imprimir tickets automáticamente mediante una impresora térmica USB.
+* Reducir errores al momento de tomar pedidos.
+* Crear una base sólida para seguir mejorando el sistema en el futuro.
+⸻
+Idea a futuro
+
+Aunque inicialmente TuOrden será un sistema básico, la idea es seguir mejorándolo poco a poco.
+
+Más adelante se busca agregar funciones como:
+
+* caja registradora,
+* inventario,
+* estadísticas de ventas,
+* pedidos desde una página web,
+* y conexión entre varios dispositivos.
+
+La intención es que en un futuro el sistema pueda adaptarse a diferentes negocios pequeños de la región.
+⸻
+Justificación
+
+Este proyecto busca ofrecer una solución práctica y accesible para pequeños negocios que todavía trabajan de forma manual.
+
+Además de ayudar a mejorar la organización, también permitirá aplicar conocimientos de programación y desarrollar una idea con utilidad real en un negocio.
+
+Identidad del proyecto
+
+Nombre:
+
+TuOrden
+
+Eslogan:
+
+“Más rápido, más fácil.”
