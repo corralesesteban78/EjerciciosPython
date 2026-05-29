@@ -16,13 +16,17 @@ while True:
         print ("-"*50)
         break
     if user not in eleccion:
-        print ("I"*50)
+        print ("X"*50)
         print ("Seleccionn no valida. Vuelva a intentar")
-        print ("I"*50)
+        print ("X"*50)
         continue
     pc = random.choice(eleccion)
     print(f"Tu eleccion {user}") 
-    time.sleep(3)
+    time.sleep(1)
+    print ("-"*50)
+    print("Piedra, Papel o Tijera....")
+    print ("-"*50)
+    time.sleep(1)
     print(f"Eleccion del pc: {pc}")
 
     if user == pc:
